@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: bazathan@gmail.com
 
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Africa/Ouagadougou # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
   github: jekyll
