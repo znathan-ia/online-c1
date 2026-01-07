@@ -190,7 +190,7 @@ projects:
   intro: >
     
   assignments:
-  - title: Exploration et analyse interactive des résultats de l’élection présidentielle de 2007 : une application Shiny 
+  - title: RShiny 
     link: "https://zongo-jonathan.shinyapps.io/projet_final/"
     tagline: "Cette application Shiny propose une analyse interactive des résultats de l’élection présidentielle française de 2007, en permettant d’explorer les liens entre les votes, l’abstention et des variables socio-démographiques. Elle offre plusieurs visualisations (histogrammes, boxplots, nuages de points) pour faciliter l’interprétation des données électorales."
 
