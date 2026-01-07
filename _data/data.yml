@@ -173,7 +173,7 @@ experiences:
         - Produire des rapports statistiques réguliers et ad hoc à destination du HCR.
 
   - role: Registration Assistant (UNV)
-    time: Nov. 2016 – Dec. 2016
+    time: Janv. 2013 – Oct. 2016
     company: UNHCR, Dori
     details: |
       Assurer la gestion, la fiabilité et l’exploitation de la base de données d’enregistrement des réfugiés maliens, afin de soutenir les opérations de protection, de planification et de reporting du HCR par la production de statistiques et d’analyses de données fiables.
@@ -191,7 +191,7 @@ projects:
     
   assignments:
   - title: Exploration et analyse interactive des résultats de l’élection présidentielle de 2007 : une application Shiny 
-    link: "#hook"
+    link: "https://zongo-jonathan.shinyapps.io/projet_final/"
     tagline: "Cette application Shiny propose une analyse interactive des résultats de l’élection présidentielle française de 2007, en permettant d’explorer les liens entre les votes, l’abstention et des variables socio-démographiques. Elle offre plusieurs visualisations (histogrammes, boxplots, nuages de points) pour faciliter l’interprétation des données électorales."
 
   
