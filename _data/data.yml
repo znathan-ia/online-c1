@@ -118,7 +118,7 @@ experiences:
       Assurer le suivi technique de la collecte, de la structuration et de la valorisation des données de monitoring de protection, 
       tout en jouant un rôle de coordination technique au sein du projet P21 et du cluster GSAT, afin de garantir la qualité des données, 
       leur conformité aux standards et leur utilisation effective pour la prise de décision.
-        - Coordonner l’ensemble des aspects techniques liés à la gestion des données sur le terrain.
+        - Coordonner l’ensemble des aspects techniques liés à la collecte et la gestion des données sur le terrain.
         - Appuyer les équipes de collecte dans l’utilisation des outils et méthodologies de collecte.
         - Veiller au respect des principes éthiques et de protection des données sensibles.
         - Servir d’interface entre les équipes terrain, la coordination projet et les partenaires.
@@ -126,172 +126,102 @@ experiences:
         - Nettoyer, transformer et structurer les données brutes en bases de données exploitables.
         - Produire des livrables sous format applicatif (tableaux de bord, plateformes ou applications de visualisation).
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Assistant Télécommunications & Analyse des données de sécurité
+    time: 2018 - Jan. 2023
+    company: UNHCR, Djibo/ UNDSS, Ouagadougou 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Assurer le soutien technique en télécommunications, en gestion des équipements et en analyse des données liées aux incidents de sécurité, 
+      afin de renforcer la sécurité opérationnelle et la continuité des activités du personnel et des opérations sur le terrain.
+        - Collecter, compiler et analyser les données relatives aux incidents de sécurité.
+        - Contribuer à l’identification des tendances, des zones à risque et des schémas d’incidents.
+        - Appuyer la production de rapports de sécurité et de notes analytiques destinées à la prise de décision.
+        - Gérer, configurer et maintenir les équipements de télécommunications (radios VHF/HF, répéteurs, accessoires).
+        - Veiller au bon fonctionnement des systèmes de communication en soutien aux opérations terrain.
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - role: Senior Registration Assistant
+    time: Fév. 2017 – Avr. 2018
+    company: UNHCR, Dori
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Assurer la gestion technique et opérationnelle des activités d’enregistrement des personnes relevant du mandat du HCR, tout en garantissant la qualité des données, 
+      le renforcement des capacités des acteurs impliqués et la production d’analyses statistiques fiables pour appuyer la planification et la prise de décision.
+        - Assurer l’aspect technique des activités d’enregistrement des personnes (enregistrement initial, rapatriement volontaire et réinstallation).
+        - Veiller à la conformité des procédures d’enregistrement avec les standards et directives du HCR.
+        - Garantir la qualité, la cohérence et la sécurité des données personnelles collectées.
+        - Assurer le rôle de formateur proGres auprès du personnel UNHCR et des partenaires gouvernementaux.
+        - Fournir un appui technique continu aux utilisateurs pour l’amélioration des pratiques de gestion des données.
+        - Programmer des outils de collecte de données à l’aide de  xlsForm (KoboToolbox).
+        - Concevoir et adapter des questionnaires pour les enquêtes de suivi et d’évaluation des activités.
+        - Assurer la qualité des données collectées et leur intégration dans les systèmes d’information.
+        - Produire des rapports statistiques réguliers et ad hoc à destination du HCR.
+        - Analyser les données d’enregistrement et de suivi pour appuyer la planification opérationnelle.
+        - Contribuer à la diffusion d’informations fiables pour le suivi des programmes.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - role: Senior Registration Assistant
+    time: Nov. 2016 – Dec. 2016
+    company: UNHCR, Djibo
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Assurer la gestion technique et opérationnelle des activités d’enregistrement des personnes relevant du mandat du HCR, tout en garantissant la qualité des données, 
+      le renforcement des capacités des acteurs impliqués et la production d’analyses statistiques fiables pour appuyer la planification et la prise de décision.
+        - Assurer l’aspect technique des activités d’enregistrement des personnes (enregistrement initial, rapatriement volontaire et réinstallation).
+        - Veiller à la conformité des procédures d’enregistrement avec les standards et directives du HCR.
+        - Garantir la qualité, la cohérence et la sécurité des données personnelles collectées.
+        - Assurer le rôle de formateur proGres auprès du personnel UNHCR et des partenaires gouvernementaux.
+        - Fournir un appui technique continu aux utilisateurs pour l’amélioration des pratiques de gestion des données.
+        - Programmer des outils de collecte de données à l’aide de  xlsForm (KoboToolbox).
+        - Concevoir et adapter des questionnaires pour les enquêtes de suivi et d’évaluation des activités.
+        - Assurer la qualité des données collectées et leur intégration dans les systèmes d’information.
+        - Produire des rapports statistiques réguliers et ad hoc à destination du HCR.
+
+  - role: Registration Assistant (UNV)
+    time: Nov. 2016 – Dec. 2016
+    company: UNHCR, Dori
+    details: |
+      Assurer la gestion, la fiabilité et l’exploitation de la base de données d’enregistrement des réfugiés maliens, afin de soutenir les opérations de protection, de planification et de reporting du HCR par la production de statistiques et d’analyses de données fiables.
+        - Gérer et maintenir la base de données des réfugiés maliens sous SQL Server 2005.
+        - Assurer le déploiement et le fonctionnement de la base de données sur un serveur HP ProLiant ML350 G6.
+        - Garantir la disponibilité, la sécurité et l’intégrité des données d’enregistrement.
+        - Assurer le rôle de formateur proGres auprès du personnel UNHCR et des partenaires gouvernementaux.
+        - Effectuer des sauvegardes régulières et assurer la continuité du service.
+        - Effectuer des vérifications systématiques des données collectées afin d’assurer leur cohérence et leur concordance.
+
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   assignments:
-  - title: Velocity
+  - title: Exploration et analyse interactive des résultats de l’élection présidentielle de 2007 : une application Shiny 
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Cette application Shiny propose une analyse interactive des résultats de l’élection présidentielle française de 2007, en permettant d’explorer les liens entre les votes, l’abstention et des variables socio-démographiques. Elle offre plusieurs visualisations (histogrammes, boxplots, nuages de points) pour faciliter l’interprétation des données électorales."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: kEITA Oumar
+    email: keitouma@unhcr.org
+    
+    role: Registration and Identity Management Officer
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      Jonathan combine une excellence analytique avec une compréhension profonde des dynamiques de vulnérabilité en Afrique de l'Ouest. C'est un collaborateur fiable, capable de piloter des systèmes de gestion de données complexes pour transformer des indicateurs de terrain en évidences stratégiques essentielles à la réponse humanitaire.
+  - person: Fitz William NEBA LOVALA SHU
+    email: nebalova@unhcr.org
+    
+    role: Associate Monitoring and Evaluation Officer 
     recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
+      Doté d'une solide maîtrise de Python, Jonathan excelle dans la modélisation de données d'urgence tout en saisissant les enjeux opérationnels du secteur. Sa capacité à mener des analyses complexes apporte une réelle valeur ajoutée au pilotage des programmes et permet une prise de décision éclairée pour l'amélioration de l'impact auprès des populations bénéficiaires.
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python & R
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Rust & Dart
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: QGis
     level: 60%
 
 footer: >
