@@ -18,7 +18,7 @@ sidebar:
   timezone: Africa/Ouagadougou # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: ZONGO Jonathan Sidkeïta Mickaël
+  linkedin: zongo-jonathan-sidkeïta-mickaël-b811a894
   #xing: alandoe
   github: znathan-ia
   telegram: # add your nickname without '@' sign
@@ -59,20 +59,24 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Professionnel chevronné dans le domaine de la gestion des données et de l'information, avec une d'expertise dans le développement de solutions de gestion 
+    et d'analyse des données pour des organisations internationales. Expérience avérée dans la conception et la mise en œuvre d'outils de veille économique, 
+    à l'aide de Power BI, Python et d'applications de bases de données, afin de transformer des ensembles de données complexes en informations exploitables 
+    qui facilitent la prise de décisions stratégiques. Je suis spécialisé dans la création de solutions d'analyse évolutives, en collaboration avec les parties
+    prenantes, notamment les gouvernements, les agences des Nations unies, les ONG, les bailleurs de fonds et les partenaires de développement, 
+    afin de fournir des solutions numériques et d'améliorer les processus décisionnels. Je maîtrise l'analyse des besoins des utilisateurs et le 
+    développement de produits numériques, notamment des applications web pour une gestion efficace de l'information et des connaissances. Passionné par 
+    l'avenir des données, j'utilise activement l'IA générative et les outils connexes pour repousser les limites de l'analyse de données basée sur l'IA et 
+    améliorer l'analyse des données et la prise de décision fondée sur les données.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Diplôme d'Université - Statistique appliquée
+    university: Université Toulouse Capitole
+    time: 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,9 +85,20 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Master en Sciences de Données (en cours)
+    university: Université Nazi BONI
+    time: 2023
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: IT Engineer
+    university: Université Nazi BONI
+    time: 2007 - 2010
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -96,21 +111,21 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Information Management Associate
+    time: Fev. 2023 - Present
+    company: UNHCR, Ouagadougou
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Assurer le suivi technique de la collecte, de la structuration et de la valorisation des données de monitoring de protection, 
+      tout en jouant un rôle de coordination technique au sein du projet P21 et du cluster GSAT, afin de garantir la qualité des données, 
+      leur conformité aux standards et leur utilisation effective pour la prise de décision.
+        - Coordonner l’ensemble des aspects techniques liés à la gestion des données sur le terrain.
+        - Appuyer les équipes de collecte dans l’utilisation des outils et méthodologies de collecte.
+        - Veiller au respect des principes éthiques et de protection des données sensibles.
+        - Servir d’interface entre les équipes terrain, la coordination projet et les partenaires.
+        - Contribuer à la production des livrables analytiques et aux rapports techniques.
+        - Nettoyer, transformer et structurer les données brutes en bases de données exploitables.
+        - Produire des livrables sous format applicatif (tableaux de bord, plateformes ou applications de visualisation).
+
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
