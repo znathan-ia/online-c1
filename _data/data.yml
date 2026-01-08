@@ -37,16 +37,16 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: French
+    - idiom: Français
       level: Native
 
-    - idiom: English
-      level: Professional
+    - idiom: Anglais
+      level: Professionnel
 
   interests:
     title: Interests
     info:
-    - item: Programming
+    - item: Programmation
       link:
 
 
