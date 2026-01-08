@@ -35,7 +35,7 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Langues
     info:
     - idiom: Français
       level: Native
@@ -44,7 +44,7 @@ sidebar:
       level: Professionnel
 
   interests:
-    title: Interests
+    title: Intérêts
     info:
     - item: Programmation
       link:
